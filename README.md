@@ -1,3 +1,5 @@
+## Spotify Clone
+
 ## Getting Started
 From the repository root, enter the Expo app directory and install dependencies:
 
